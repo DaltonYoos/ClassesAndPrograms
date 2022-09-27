@@ -1,5 +1,5 @@
 import CoinClass as c
-
+#as c is an alias for coin class so that it does not need to be written out every time that it is referenced
 
 # The main function.
 def main():
